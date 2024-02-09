@@ -17,8 +17,8 @@
 
 Linux:
 
-g++ -std=c++11 -o ffrtmp ffrtmp.cpp
+g++ -std=c++11 -o genchannel genchannel.cpp
 
 Win:
 
-g++ -std=c++11 -o ffrtmp.exe ffrtmp.cpp
+g++ -std=c++11 -o genchannel.exe genchannel.cpp
